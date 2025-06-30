@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pizza_Management_System", "Pizza_Management_System\Pizza_Management_System.csproj", "{28735D00-4839-454A-8212-2818DEADD265}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28735D00-4839-454A-8212-2818DEADD265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28735D00-4839-454A-8212-2818DEADD265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28735D00-4839-454A-8212-2818DEADD265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28735D00-4839-454A-8212-2818DEADD265}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8F924FC-0B25-47F2-BC66-A35302939008}
+	EndGlobalSection
+EndGlobal
